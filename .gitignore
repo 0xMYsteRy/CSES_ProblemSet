@@ -1,0 +1,5 @@
+#project build
+/cmake-build-debug/
+
+#MacOS
+.idea
