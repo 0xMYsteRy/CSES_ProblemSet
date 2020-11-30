@@ -4,3 +4,7 @@ project(CSES_ProblemSet)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Weird_Algorithm Introductory_Problems/Weird_Algorithm.cpp)
+add_executable(Missing_Number Introductory_Problems/Missing_Number.cpp)
+add_executable(Repetition Introductory_Problems/Repetition.cpp)
+add_executable(IncreasingArray Introductory_Problems/IncreasingArray.cpp)
+add_executable(Permutations Introductory_Problems/Permutations.cpp)
