@@ -21,7 +21,7 @@ From the [CSES website](https://cses.fi/problemset/text/1810)
 | [Number Spiral](https://cses.fi/problemset/task/1071/)      | [Solution](https://github.com/0xMYsteRy/CSES_ProblemSet/blob/master/Introductory_Problems/NumberSpiral.cpp) |
 | [Two Knights](https://cses.fi/problemset/task/1072)         | [Solution](https://github.com/0xMYsteRy/CSES_ProblemSet/blob/master/Introductory_Problems/TwoKnights.cpp) |
 | [Two Sets](https://cses.fi/problemset/task/1092)            | [Solution](https://github.com/0xMYsteRy/CSES_ProblemSet/blob/master/Introductory_Problems/TwoSet.cpp) |
-| [Bit Strings](https://cses.fi/problemset/task/1617/)        | [Solution](https://github.com/0xMYsteRy/CSES_ProblemSet/blob/master/Introductory_Problems/Weird_Algorithm.cpp) |
+| [Bit Strings](https://cses.fi/problemset/task/1617/)        | [Solution](https://github.com/0xMYsteRy/CSES_ProblemSet/blob/master/Introductory_Problems/Trailing_Zeros.cpp) |
 | [Trailing Zeros](https://cses.fi/problemset/task/1618)      | [Solution](https://github.com/0xMYsteRy/CSES_ProblemSet/blob/master/Introductory_Problems/Weird_Algorithm.cpp) |
 | [Coin Piles](https://cses.fi/problemset/task/1754)          | [Solution](https://github.com/0xMYsteRy/CSES_ProblemSet/blob/master/Introductory_Problems/Weird_Algorithm.cpp) |
 | [Palindrome Reorder](https://cses.fi/problemset/task/1755)  | [Solution](https://github.com/0xMYsteRy/CSES_ProblemSet/blob/master/Introductory_Problems/Weird_Algorithm.cpp) |
